@@ -19,5 +19,7 @@ fl = open(f"{fldr}/input.txt", "w")
 fl.write(r.text)
 
 # one file solutions for the first few days
-open(f"{fldr}/soln.py", "w")
+open(f"{fldr}/commons.py", "w")
+open(f"{fldr}/part1.py", "w")
+open(f"{fldr}/part2.py", "w")
 open(f"{fldr}/sample.txt", "w")
